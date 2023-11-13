@@ -27,15 +27,6 @@ Physics & Mathematics Tutor
 - Monitored student progress and implemented strategies for improvement.
 - Maintained regular communication with parents or guardians to provide feedback on students' performance.
 
-Barista
-Coffee Time, Gdansk, Poland
-June 2022 - August 2022
-
-- Delivered exceptional customer service by providing friendly and efficient service.
-- Prepared and served a variety of coffee and other beverages.
-- Maintained cleanliness and hygiene standards in the coffee shop.
-- Operated cash register and handled transactions accurately.
-- Assisted in inventory management and stock replenishment.
 
 **Skills:**
 
