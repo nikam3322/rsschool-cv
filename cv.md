@@ -33,6 +33,7 @@ Physics & Mathematics Tutor
 - Proficient in Microsoft Office Suite (Word, Excel, PowerPoint).
 - Strong mathematical and analytical skills.
 - Excellent interpersonal and communication skills.
+- Proficient in Autocad, Fusion360, MS Project.
 
 **Languages:**
 English (B2),
