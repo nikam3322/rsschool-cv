@@ -1,4 +1,4 @@
-# **Nika Peraverzeva** <img src="https://github.com/nikam3322/rsschool-cv/assets/93270959/3b6a3f4a-bc98-4f60-b052-2a64f52af863" width="190" align="right">
+# **Nika Peraverzeva**
 
 
 **Email:** nikam3322@gmail.com
