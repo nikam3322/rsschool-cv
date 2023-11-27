@@ -23,13 +23,16 @@ nav a {
   color: black;
   text-decoration: underline;
 }
+.contacts__list {
+  padding: 0 15px;
+}
 .contacts {
   display: flex;
   align-content: space-between;
   flex-wrap: wrap;
 }
 .contacts__item {
-  padding: 0px 20px;
+  list-style: none;
 }
 header {
   display: flex;
