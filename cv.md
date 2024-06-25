@@ -12,7 +12,7 @@ I am motivated and dedicated student seeking opportunities to apply my knowledge
 **Education:**
 
 Gdansk University of Technology, Faculty of Management and Economics,
-Department of Engineering Management (2022 – present) - overall score 4.2/5
+Department of Engineering Management (2022 – present) - overall score 4.6/5
 
 Gymnasium nr 5 (Minsk, Belarus), Higher Secondary Education, physics and mathematics (2019-2021) – overall score 9.6/10
 
@@ -28,8 +28,8 @@ Physics & Mathematics Tutor
 - Maintained regular communication with parents or guardians to provide feedback on students' performance.
 
 Barista
-Coffee Time, Gdansk, Poland
-June 2022 - August 2022
+Starbucks, Gdansk, Poland
+July 2023 - now
 
 - Delivered exceptional customer service by providing friendly and efficient service.
 - Prepared and served a variety of coffee and other beverages.
@@ -39,13 +39,18 @@ June 2022 - August 2022
 
 **Skills:**
 
-- Proficient in Microsoft Office Suite (Word, Excel, PowerPoint).
-- Strong mathematical and analytical skills.
-- Excellent interpersonal and communication skills.
+- HTML & CSS
+- Jira
+- Python
+- Figma
+- Photoshop
+- AutoCad
+- Git
+- JavaScript
 
 **Languages:**
 English (B2),
-Polish (B1),
+Polish (B2),
 Russian (Native),
 Belarusian (Native).
 
