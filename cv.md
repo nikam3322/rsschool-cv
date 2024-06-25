@@ -29,7 +29,7 @@ Physics & Mathematics Tutor
 
 Barista
 Starbucks, Gdansk, Poland
-July 2023 - now
+July 2023 - present
 
 - Delivered exceptional customer service by providing friendly and efficient service.
 - Prepared and served a variety of coffee and other beverages.
