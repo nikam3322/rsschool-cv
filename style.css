@@ -1,6 +1,12 @@
 html {
   background-color: #d2bcb7;
 }
+
+.header a,
+.footer a{
+  text-decoration: none;
+}
+
 body {
   margin: 0;
   display: flex;
@@ -38,12 +44,11 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #c0aca8;
   margin-bottom: 1%;
   padding: 10px 0;
 }
 .photo {
-  width: 20vw;
+  width: 250px;
 }
 .title__photo {
   display: flex;
@@ -62,13 +67,12 @@ header {
   font-size: 1.1rem;
 }
 .logo {
-  width: 10vw;
+  width: 50px;
 }
 .project__example {
   padding-bottom: 15 px;
 }
 footer {
-  background-color: #c0aca8;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -83,6 +87,7 @@ header p {
 .nav__item {
   font-size: 1.2rem;
 }
+
 footer p {
   font-size: 1.2rem;
   font-weight: 600;
