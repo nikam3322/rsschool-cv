@@ -1,1 +1,89 @@
+html {
+  background-color: #d2bcb7;
+}
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+main {
+  padding: 0 15px;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  margin-right: 20px;
+}
 
+nav a {
+  color: black;
+  text-decoration: underline;
+}
+.contacts__list {
+  padding: 0 15px;
+}
+.contacts {
+  display: flex;
+  align-content: space-between;
+  flex-wrap: wrap;
+}
+.contacts__item {
+  list-style: none;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #c0aca8;
+  margin-bottom: 1%;
+  padding: 10px 0;
+}
+.photo {
+  width: 20vw;
+}
+.title__photo {
+  display: flex;
+  justify-content: space-between;
+}
+.brief__information {
+  width: 40 vw;
+  font-size: 1.4rem;
+}
+.title__brief__information {
+  width: 40vw;
+}
+.link {
+  color: black;
+  text-decoration: underline;
+  font-size: 1.1rem;
+}
+.logo {
+  width: 10vw;
+}
+.project__example {
+  padding-bottom: 15 px;
+}
+footer {
+  background-color: #c0aca8;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+header p {
+  font-size: 1.2rem;
+}
+.item {
+  font-size: 1.1rem;
+}
+.nav__item {
+  font-size: 1.2rem;
+}
+footer p {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
